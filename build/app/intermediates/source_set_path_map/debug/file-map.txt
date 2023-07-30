@@ -1,0 +1,18 @@
+com.example.pdfviewer.app-jetified-window-1.0.0-beta04-0 /home/syntaxerror/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/res
+com.example.pdfviewer.app-jetified-android-pdf-viewer-3.2.0-beta.3-1 /home/syntaxerror/.gradle/caches/transforms-3/30ab00d35f5402ee6803eab22370cf54/transformed/jetified-android-pdf-viewer-3.2.0-beta.3/res
+com.example.pdfviewer.app-core-1.7.0-2 /home/syntaxerror/.gradle/caches/transforms-3/57d13c65eae90a7945dea98c1aa2b720/transformed/core-1.7.0/res
+com.example.pdfviewer.app-jetified-annotation-experimental-1.1.0-3 /home/syntaxerror/.gradle/caches/transforms-3/6c0c163cc77ae6c91f9f7dfcd179c29c/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.pdfviewer.app-lifecycle-runtime-2.3.1-4 /home/syntaxerror/.gradle/caches/transforms-3/9a249567dcb8025899915ed9a2426636/transformed/lifecycle-runtime-2.3.1/res
+com.example.pdfviewer.app-jetified-window-java-1.0.0-beta04-5 /home/syntaxerror/.gradle/caches/transforms-3/ae81e06d24c799147c26814497a2a305/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.pdfviewer.app-debug-6 /home/syntaxerror/Desktop/Flutter Project/pdfviewer/android/app/src/debug/res
+com.example.pdfviewer.app-main-7 /home/syntaxerror/Desktop/Flutter Project/pdfviewer/android/app/src/main/res
+com.example.pdfviewer.app-pngs-8 /home/syntaxerror/Desktop/Flutter Project/pdfviewer/build/app/generated/res/pngs/debug
+com.example.pdfviewer.app-resValues-9 /home/syntaxerror/Desktop/Flutter Project/pdfviewer/build/app/generated/res/resValues/debug
+com.example.pdfviewer.app-rs-10 /home/syntaxerror/Desktop/Flutter Project/pdfviewer/build/app/generated/res/rs/debug
+com.example.pdfviewer.app-mergeDebugResources-11 /home/syntaxerror/Desktop/Flutter Project/pdfviewer/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.pdfviewer.app-mergeDebugResources-12 /home/syntaxerror/Desktop/Flutter Project/pdfviewer/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.pdfviewer.app-merged_res-13 /home/syntaxerror/Desktop/Flutter Project/pdfviewer/build/app/intermediates/merged_res/debug
+com.example.pdfviewer.app-packaged_res-14 /home/syntaxerror/Desktop/Flutter Project/pdfviewer/build/external_path/intermediates/packaged_res/debug
+com.example.pdfviewer.app-packaged_res-15 /home/syntaxerror/Desktop/Flutter Project/pdfviewer/build/flutter_pdfview/intermediates/packaged_res/debug
+com.example.pdfviewer.app-packaged_res-16 /home/syntaxerror/Desktop/Flutter Project/pdfviewer/build/path_provider_android/intermediates/packaged_res/debug
+com.example.pdfviewer.app-packaged_res-17 /home/syntaxerror/Desktop/Flutter Project/pdfviewer/build/permission_handler_android/intermediates/packaged_res/debug

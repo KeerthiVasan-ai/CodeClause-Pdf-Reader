@@ -1,0 +1,4 @@
+#Sun Jul 30 14:20:01 IST 2023
+base.0=/home/syntaxerror/Desktop/Flutter Project/pdfviewer/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
